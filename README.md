@@ -1,6 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text=&fontAlign=80&fontAlignY=40&color=gradient)
-# YUMIN's github
-## _Welcome, YUMIN's github_
+# _Welcome, YUMIN's github_
 
 
 ⚒️Tech Stack⚒️
